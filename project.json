@@ -1,0 +1,25 @@
+{
+  "overview": "A personal yoga website for Akshat (Yogakshatam), featuring a calm and minimal design with soft earthy tones. Includes all key sections: hero, about, classes, schedule, pricing, testimonials, gallery, and contact.",
+  "features": [
+    "Hero section with serene background and call-to-action",
+    "About section with instructor bio",
+    "Classes catalog with Hatha, Vinyasa, Restorative, and Meditation",
+    "Weekly schedule view with color-coded classes",
+    "3-tier pricing cards with feature lists",
+    "Testimonials carousel with star ratings",
+    "Photo gallery with lightbox preview",
+    "Contact form with validation",
+    "Smooth-scroll navigation with mobile menu",
+    "Calm earthy color palette with generous whitespace"
+  ],
+  "category": "personal-website",
+  "tags": [
+    "yoga",
+    "wellness",
+    "personal",
+    "minimal",
+    "calm",
+    "meditation"
+  ],
+  "last_updated": "2026-04-09T14:09:04.700Z"
+}
